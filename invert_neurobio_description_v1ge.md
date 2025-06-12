@@ -30,7 +30,7 @@ biochemical processes. The study of invertebrates has been invaluable to
 learning general neuroscience mechanisms common to all animals. But what are
 the differences? Invertebrates have evolved distinct adaptations that enable
 their survival and reproductive success in a wide range of ecological niches.
-Through lecture, hands on examination, and reading and discussion of paticular
+Through lecture, hands on examination, and reading and discussion of particular
 case studies students will 1.) develop invertebrate taxonomic fluency, 2.)
 learn seminal neuroscience contributions from the study of invertebrates,
 and 3.) recognize how the continued investigation of invertebrate biology can
