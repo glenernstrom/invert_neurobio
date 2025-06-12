@@ -1,8 +1,10 @@
 # Invertebrate Neurobiology
 
 ## Instructor
-Glen Ernstrom, PhD
-Assistant Professor, Neuroscience Program
+Glen Ernstrom, PhD  
+Assistant Professor    
+Department of Neurological Sciences  
+Neuroscience Program  
 
 ## Format
 lecture 3 hr / week (preferrably 1 3 hr block) + 1 hr for discussion,
